@@ -6,4 +6,4 @@ Assignment.jpg is segmented using contours method in opencv and divided into mar
 
 siamese network was used as number of images each class was very low i.e one per each letter.
 
-used pytorch as model
+used pytorch as framework
